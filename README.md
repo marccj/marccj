@@ -1,16 +1,18 @@
 ![Header](./github-header-image.png)
 
-## Languages :computer:
+**Back-end** <br/>
+![Back-end](https://github.com/hussainweb/hussainweb/blob/main/icons/javascript.png)
+
+     
+
+**Front-end**
+   
+
+**Databases**
 
 
+**Tools**
 
-
-## Tools / Frameworks / Technologies :hammer
-
-
-
-
-## Others... 
-
+  
 
 WORK IN PROGRESS!
